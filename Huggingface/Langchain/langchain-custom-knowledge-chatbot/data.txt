@@ -1,0 +1,14 @@
+### What is LangChain?
+LangChain is a framework designed to simplify the development of applications that use large language models (LLMs). It enables seamless integration with various data sources, vector databases, and retrieval-augmented generation (RAG) systems.
+
+### What is FAISS?
+FAISS (Facebook AI Similarity Search) is an open-source library that allows for efficient similarity search and clustering of dense vectors. It is widely used for storing and retrieving document embeddings in AI applications.
+
+### How does Retrieval-Augmented Generation (RAG) work?
+RAG enhances language models by retrieving relevant information from external knowledge sources before generating responses. This approach improves accuracy, reduces hallucinations, and allows models to provide more context-aware answers.
+
+### What are the benefits of using LangChain?
+- Simplifies interaction with large language models.
+- Supports multiple vector stores like FAISS and Pinecone.
+- Enables integration with APIs, databases, and file systems.
+- Provides built-in tools for retrieval-augmented generation (RAG).
